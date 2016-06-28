@@ -1,0 +1,45 @@
+{
+    "room": "Anonymous Music",
+    "author": "AnonymousXD",
+    "css": "https://cdn.rawgit.com/Macakk/Plug-Dj-Room/master/R3KT.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": "#89BE6C",
+        "host": "#37ff00",
+        "cohost": "#c21927",
+        "manager": "#00b7ff",
+        "bouncer": "#ff5efa",
+        "rdj": "#5eff66",
+        "subscriber": "#777F92",
+        "silversubscriber": null,
+        "friend": ffdd00,
+        "user": "#777F92"
+    },
+    "images": {
+        "background": "http://www.upslike.net/imgdb/Anonymous-4502d8.png",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "autocomplete": [],
+    "emotes": {
+
+    }
+}
